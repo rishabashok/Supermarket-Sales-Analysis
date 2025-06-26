@@ -70,7 +70,7 @@ Profit Margin (%) by Category
 
 Monthly Sales Trend (Year/Month)
 
-### 📂 SQL File: supermarket_sales_analysis.sql
+### 📂 SQL File: "supermarket_sales_analysis.sql"
 
 
 ### Rishab Ashok:
